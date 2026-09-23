@@ -1,0 +1,45 @@
+name: Update Market Calendar
+
+on:
+  # 可以在 GitHub 网页上手动运行
+  workflow_dispatch:
+
+  # 每天自动运行一次
+  schedule:
+    - cron: "30 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update calendar data
+        env:
+          ALPHA_VANTAGE_KEY: ${{ secrets.ALPHA_VANTAGE_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python scripts/update-calendar.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add calendar-data.json
+
+          if git diff --cached --quiet; then
+            echo "No calendar changes."
+          else
+            git commit -m "Auto update market calendar"
+            git push
+          fi

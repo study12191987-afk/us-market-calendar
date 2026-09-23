@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-09-22T09:24:07",
+  "today": "2026-09-22",
+  "eventCount": 28,
+  "events": [
+    {
+      "date": "2026-09-24",
+      "category": "earnings",
+      "importance": "high",
+      "title": "COST Earnings",
+      "symbol": "COST",
+      "company": "COSTCO WHOLESALE CORPORATION",
+      "session": "post-market",
+      "estimateEPS": "6.48",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "macro",
+      "importance": "high",
+      "title": "JOLTS",
+      "fullName": "Job Openings and Labor Turnover Survey",
+      "releaseId": 192,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "macro",
+      "importance": "high",
+      "title": "GDP",
+      "fullName": "Gross Domestic Product",
+      "releaseId": 53,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "macro",
+      "importance": "critical",
+      "title": "PCE",
+      "fullName": "Personal Income and Outlays",
+      "releaseId": 54,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "macro",
+      "importance": "critical",
+      "title": "Nonfarm Payrolls",
+      "fullName": "Employment Situation",
+      "releaseId": 50,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "earnings",
+      "importance": "high",
+      "title": "JPM Earnings",
+      "symbol": "JPM",
+      "company": "J P MORGAN CHASE & COMPANY",
+      "session": "pre-market",
+      "estimateEPS": "5.84",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "macro",
+      "importance": "critical",
+      "title": "CPI",
+      "fullName": "Consumer Price Index",
+      "releaseId": 10,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "earnings",
+      "importance": "high",
+      "title": "BAC Earnings",
+      "symbol": "BAC",
+      "company": "BANK OF AMERICA CORPORATION",
+      "session": "pre-market",
+      "estimateEPS": "1.16",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "macro",
+      "importance": "high",
+      "title": "PPI",
+      "fullName": "Producer Price Index",
+      "releaseId": 46,
+      "source": "FRED"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "earnings",
+      "importance": "high",
+      "title": "NFLX Earnings",
+      "symbol": "NFLX",
+      "company": "NETFLIX INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "0.82",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "fed",
+      "importance": "high",
+      "title": "FOMC Meeting — Day 1",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "earnings",
+      "importance": "high",
+      "title": "V Earnings",
+      "symbol": "V",
+      "company": "VISA INCORPORATED",
+      "session": "tbd",
+      "estimateEPS": "3.43",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "fed",
+      "importance": "critical",
+      "title": "FOMC Rate Decision",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "fed",
+      "importance": "critical",
+      "title": "Fed Chair Press Conference",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "earnings",
+      "importance": "high",
+      "title": "TSLA Earnings",
+      "symbol": "TSLA",
+      "company": "TESLA INCORPORATED",
+      "session": "tbd",
+      "estimateEPS": "0.26",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "earnings",
+      "importance": "high",
+      "title": "AAPL Earnings",
+      "symbol": "AAPL",
+      "company": "APPLE INCORPORATED",
+      "session": "tbd",
+      "estimateEPS": "1.98",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "earnings",
+      "importance": "high",
+      "title": "AMZN Earnings",
+      "symbol": "AMZN",
+      "company": "AMAZON.COM INCORPORATED",
+      "session": "tbd",
+      "estimateEPS": "2.0",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "earnings",
+      "importance": "high",
+      "title": "LLY Earnings",
+      "symbol": "LLY",
+      "company": "ELI LILLY AND COMPANY",
+      "session": "pre-market",
+      "estimateEPS": "9.56",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "earnings",
+      "importance": "high",
+      "title": "MA Earnings",
+      "symbol": "MA",
+      "company": "MASTERCARD INCORPORATED",
+      "session": "tbd",
+      "estimateEPS": "5.13",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "earnings",
+      "importance": "high",
+      "title": "XOM Earnings",
+      "symbol": "XOM",
+      "company": "EXXONMOBIL HOLDINGS CORPORATION",
+      "session": "tbd",
+      "estimateEPS": "3.78",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "importance": "high",
+      "title": "AMD Earnings",
+      "symbol": "AMD",
+      "company": "ADVANCED MICRO DEVICES INC",
+      "session": "tbd",
+      "estimateEPS": "1.64",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "importance": "high",
+      "title": "GOOGL Earnings",
+      "symbol": "GOOGL",
+      "company": "ALPHABET INC - CLASS A",
+      "session": "tbd",
+      "estimateEPS": "2.93",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "importance": "high",
+      "title": "META Earnings",
+      "symbol": "META",
+      "company": "META PLATFORMS INC - CLASS A",
+      "session": "tbd",
+      "estimateEPS": "6.39",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "importance": "high",
+      "title": "MSFT Earnings",
+      "symbol": "MSFT",
+      "company": "MICROSOFT CORPORATION",
+      "session": "tbd",
+      "estimateEPS": "4.69",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-08",
+      "category": "fed",
+      "importance": "high",
+      "title": "FOMC Meeting — Day 1",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-12-09",
+      "category": "fed",
+      "importance": "critical",
+      "title": "FOMC Rate Decision",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-12-09",
+      "category": "fed",
+      "importance": "critical",
+      "title": "Fed Chair Press Conference",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-12-09",
+      "category": "fed",
+      "importance": "critical",
+      "title": "Summary of Economic Projections (SEP)",
+      "source": "Federal Reserve"
+    }
+  ]
+}
