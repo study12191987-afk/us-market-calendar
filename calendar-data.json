@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T09:24:07",
-  "today": "2026-09-22",
-  "eventCount": 28,
+  "generatedAt": "2026-09-24T13:40:19",
+  "today": "2026-09-24",
+  "eventCount": 22,
   "events": [
     {
       "date": "2026-09-24",
@@ -13,42 +13,6 @@
       "session": "post-market",
       "estimateEPS": "6.48",
       "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "macro",
-      "importance": "high",
-      "title": "JOLTS",
-      "fullName": "Job Openings and Labor Turnover Survey",
-      "releaseId": 192,
-      "source": "FRED"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "macro",
-      "importance": "high",
-      "title": "GDP",
-      "fullName": "Gross Domestic Product",
-      "releaseId": 53,
-      "source": "FRED"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "macro",
-      "importance": "critical",
-      "title": "PCE",
-      "fullName": "Personal Income and Outlays",
-      "releaseId": 54,
-      "source": "FRED"
-    },
-    {
-      "date": "2026-10-02",
-      "category": "macro",
-      "importance": "critical",
-      "title": "Nonfarm Payrolls",
-      "fullName": "Employment Situation",
-      "releaseId": 50,
-      "source": "FRED"
     },
     {
       "date": "2026-10-13",
@@ -63,15 +27,6 @@
     },
     {
       "date": "2026-10-14",
-      "category": "macro",
-      "importance": "critical",
-      "title": "CPI",
-      "fullName": "Consumer Price Index",
-      "releaseId": 10,
-      "source": "FRED"
-    },
-    {
-      "date": "2026-10-14",
       "category": "earnings",
       "importance": "high",
       "title": "BAC Earnings",
@@ -80,15 +35,6 @@
       "session": "pre-market",
       "estimateEPS": "1.16",
       "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "macro",
-      "importance": "high",
-      "title": "PPI",
-      "fullName": "Producer Price Index",
-      "releaseId": 46,
-      "source": "FRED"
     },
     {
       "date": "2026-10-20",
