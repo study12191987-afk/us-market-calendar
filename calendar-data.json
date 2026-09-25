@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-09-24T13:40:19",
-  "today": "2026-09-24",
+  "generatedAt": "2026-09-25T13:39:15",
+  "today": "2026-09-25",
   "eventCount": 22,
   "events": [
-    {
-      "date": "2026-09-24",
-      "category": "earnings",
-      "importance": "high",
-      "title": "COST Earnings",
-      "symbol": "COST",
-      "company": "COSTCO WHOLESALE CORPORATION",
-      "session": "post-market",
-      "estimateEPS": "6.48",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-10-13",
       "category": "earnings",
@@ -151,7 +140,7 @@
       "importance": "high",
       "title": "AMD Earnings",
       "symbol": "AMD",
-      "company": "ADVANCED MICRO DEVICES INC",
+      "company": "ADVANCED MICRO DEVICES INCORPORATED",
       "session": "tbd",
       "estimateEPS": "1.64",
       "source": "Alpha Vantage"
@@ -187,6 +176,17 @@
       "company": "MICROSOFT CORPORATION",
       "session": "tbd",
       "estimateEPS": "4.69",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "earnings",
+      "importance": "high",
+      "title": "NVDA Earnings",
+      "symbol": "NVDA",
+      "company": "NVIDIA CORP",
+      "session": "tbd",
+      "estimateEPS": "2.47",
       "source": "Alpha Vantage"
     },
     {
