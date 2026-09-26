@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T13:39:15",
-  "today": "2026-09-25",
-  "eventCount": 22,
+  "generatedAt": "2026-09-26T13:36:40",
+  "today": "2026-09-26",
+  "eventCount": 23,
   "events": [
     {
       "date": "2026-10-13",
@@ -98,7 +98,7 @@
       "symbol": "AMZN",
       "company": "AMAZON.COM INCORPORATED",
       "session": "tbd",
-      "estimateEPS": "2.0",
+      "estimateEPS": "2.01",
       "source": "Alpha Vantage"
     },
     {
@@ -109,7 +109,7 @@
       "symbol": "LLY",
       "company": "ELI LILLY AND COMPANY",
       "session": "pre-market",
-      "estimateEPS": "9.56",
+      "estimateEPS": "9.8",
       "source": "Alpha Vantage"
     },
     {
@@ -151,7 +151,7 @@
       "importance": "high",
       "title": "GOOGL Earnings",
       "symbol": "GOOGL",
-      "company": "ALPHABET INC - CLASS A",
+      "company": "ALPHABET INCORPORATED",
       "session": "tbd",
       "estimateEPS": "2.93",
       "source": "Alpha Vantage"
@@ -162,7 +162,7 @@
       "importance": "high",
       "title": "META Earnings",
       "symbol": "META",
-      "company": "META PLATFORMS INC - CLASS A",
+      "company": "META PLATFORMS INCORPORATED",
       "session": "tbd",
       "estimateEPS": "6.39",
       "source": "Alpha Vantage"
@@ -187,6 +187,17 @@
       "company": "NVIDIA CORP",
       "session": "tbd",
       "estimateEPS": "2.47",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "earnings",
+      "importance": "high",
+      "title": "WMT Earnings",
+      "symbol": "WMT",
+      "company": "WALMART INC",
+      "session": "pre-market",
+      "estimateEPS": "0.63",
       "source": "Alpha Vantage"
     },
     {
