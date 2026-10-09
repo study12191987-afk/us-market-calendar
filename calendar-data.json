@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T13:43:28",
-  "today": "2026-10-08",
-  "eventCount": 23,
+  "generatedAt": "2026-10-09T13:44:03",
+  "today": "2026-10-09",
+  "eventCount": 24,
   "events": [
     {
       "date": "2026-10-13",
@@ -198,6 +198,17 @@
       "company": "WALMART INC",
       "session": "pre-market",
       "estimateEPS": "0.63",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-02",
+      "category": "earnings",
+      "importance": "high",
+      "title": "CRM Earnings",
+      "symbol": "CRM",
+      "company": "SALESFORCE INC",
+      "session": "tbd",
+      "estimateEPS": "2.41",
       "source": "Alpha Vantage"
     },
     {
