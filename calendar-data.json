@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T13:44:03",
-  "today": "2026-10-09",
+  "generatedAt": "2026-10-10T13:40:19",
+  "today": "2026-10-10",
   "eventCount": 24,
   "events": [
     {
@@ -11,7 +11,7 @@
       "symbol": "JPM",
       "company": "J P MORGAN CHASE & COMPANY",
       "session": "pre-market",
-      "estimateEPS": "5.88",
+      "estimateEPS": "5.94",
       "source": "Alpha Vantage"
     },
     {
@@ -22,7 +22,7 @@
       "symbol": "BAC",
       "company": "BANK OF AMERICA CORPORATION",
       "session": "pre-market",
-      "estimateEPS": "1.16",
+      "estimateEPS": "1.11",
       "source": "Alpha Vantage"
     },
     {
@@ -34,6 +34,17 @@
       "company": "NETFLIX INCORPORATED",
       "session": "post-market",
       "estimateEPS": "0.82",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "earnings",
+      "importance": "high",
+      "title": "TSLA Earnings",
+      "symbol": "TSLA",
+      "company": "TESLA INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "0.23",
       "source": "Alpha Vantage"
     },
     {
@@ -72,22 +83,22 @@
       "date": "2026-10-28",
       "category": "earnings",
       "importance": "high",
-      "title": "TSLA Earnings",
-      "symbol": "TSLA",
-      "company": "TESLA INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "0.24",
+      "title": "GOOGL Earnings",
+      "symbol": "GOOGL",
+      "company": "ALPHABET INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "2.95",
       "source": "Alpha Vantage"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-28",
       "category": "earnings",
       "importance": "high",
-      "title": "AAPL Earnings",
-      "symbol": "AAPL",
-      "company": "APPLE INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "1.98",
+      "title": "MSFT Earnings",
+      "symbol": "MSFT",
+      "company": "MICROSOFT CORPORATION",
+      "session": "post-market",
+      "estimateEPS": "4.71",
       "source": "Alpha Vantage"
     },
     {
@@ -135,25 +146,25 @@
       "source": "Alpha Vantage"
     },
     {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "importance": "high",
+      "title": "AAPL Earnings",
+      "symbol": "AAPL",
+      "company": "APPLE INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "1.98",
+      "source": "Alpha Vantage"
+    },
+    {
       "date": "2026-11-03",
       "category": "earnings",
       "importance": "high",
       "title": "AMD Earnings",
       "symbol": "AMD",
       "company": "ADVANCED MICRO DEVICES INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "1.64",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-11-04",
-      "category": "earnings",
-      "importance": "high",
-      "title": "GOOGL Earnings",
-      "symbol": "GOOGL",
-      "company": "ALPHABET INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "2.95",
+      "session": "post-market",
+      "estimateEPS": "1.66",
       "source": "Alpha Vantage"
     },
     {
@@ -168,23 +179,12 @@
       "source": "Alpha Vantage"
     },
     {
-      "date": "2026-11-04",
-      "category": "earnings",
-      "importance": "high",
-      "title": "MSFT Earnings",
-      "symbol": "MSFT",
-      "company": "MICROSOFT CORPORATION",
-      "session": "tbd",
-      "estimateEPS": "4.7",
-      "source": "Alpha Vantage"
-    },
-    {
       "date": "2026-11-18",
       "category": "earnings",
       "importance": "high",
       "title": "NVDA Earnings",
       "symbol": "NVDA",
-      "company": "NVIDIA CORP",
+      "company": "NVIDIA CORPORATION",
       "session": "tbd",
       "estimateEPS": "2.47",
       "source": "Alpha Vantage"
