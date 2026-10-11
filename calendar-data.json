@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T13:40:19",
-  "today": "2026-10-10",
+  "generatedAt": "2026-10-11T13:40:49",
+  "today": "2026-10-11",
   "eventCount": 24,
   "events": [
     {
@@ -195,7 +195,7 @@
       "importance": "high",
       "title": "WMT Earnings",
       "symbol": "WMT",
-      "company": "WALMART INC",
+      "company": "WALMART INCORPORATED",
       "session": "pre-market",
       "estimateEPS": "0.63",
       "source": "Alpha Vantage"
