@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-10-13T19:55:05",
-  "today": "2026-10-13",
-  "eventCount": 24,
+  "generatedAt": "2026-10-14T18:06:27",
+  "today": "2026-10-14",
+  "eventCount": 23,
   "events": [
-    {
-      "date": "2026-10-13",
-      "category": "earnings",
-      "importance": "high",
-      "title": "JPM Earnings",
-      "symbol": "JPM",
-      "company": "J P MORGAN CHASE & COMPANY",
-      "session": "pre-market",
-      "estimateEPS": "5.94",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-10-14",
       "category": "earnings",
