@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T17:49:47",
-  "today": "2026-10-15",
-  "eventCount": 22,
+  "generatedAt": "2026-10-16T17:34:50",
+  "today": "2026-10-16",
+  "eventCount": 24,
   "events": [
     {
       "date": "2026-10-20",
@@ -216,6 +216,28 @@
       "importance": "critical",
       "title": "Summary of Economic Projections (SEP)",
       "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
+      "importance": "high",
+      "title": "ORCL Earnings",
+      "symbol": "ORCL",
+      "company": "ORACLE CORP",
+      "session": "tbd",
+      "estimateEPS": "1.57",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2027-01-14",
+      "category": "earnings",
+      "importance": "high",
+      "title": "JPM Earnings",
+      "symbol": "JPM",
+      "company": "JPMORGAN CHASE & COMPANY",
+      "session": "tbd",
+      "estimateEPS": "",
+      "source": "Alpha Vantage"
     }
   ]
 }
