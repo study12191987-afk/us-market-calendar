@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T17:34:50",
-  "today": "2026-10-16",
-  "eventCount": 24,
+  "generatedAt": "2026-10-17T16:33:58",
+  "today": "2026-10-17",
+  "eventCount": 26,
   "events": [
     {
       "date": "2026-10-20",
@@ -18,11 +18,22 @@
       "date": "2026-10-21",
       "category": "earnings",
       "importance": "high",
+      "title": "META Earnings",
+      "symbol": "META",
+      "company": "META PLATFORMS INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "6.67",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "earnings",
+      "importance": "high",
       "title": "TSLA Earnings",
       "symbol": "TSLA",
       "company": "TESLA INCORPORATED",
       "session": "post-market",
-      "estimateEPS": "0.23",
+      "estimateEPS": "0.21",
       "source": "Alpha Vantage"
     },
     {
@@ -39,7 +50,7 @@
       "title": "V Earnings",
       "symbol": "V",
       "company": "VISA INCORPORATED",
-      "session": "tbd",
+      "session": "post-market",
       "estimateEPS": "3.43",
       "source": "Alpha Vantage"
     },
@@ -65,7 +76,7 @@
       "symbol": "GOOGL",
       "company": "ALPHABET INCORPORATED",
       "session": "post-market",
-      "estimateEPS": "2.95",
+      "estimateEPS": "2.94",
       "source": "Alpha Vantage"
     },
     {
@@ -98,7 +109,7 @@
       "symbol": "LLY",
       "company": "ELI LILLY AND COMPANY",
       "session": "pre-market",
-      "estimateEPS": "9.83",
+      "estimateEPS": "5.38",
       "source": "Alpha Vantage"
     },
     {
@@ -108,7 +119,7 @@
       "title": "MA Earnings",
       "symbol": "MA",
       "company": "MASTERCARD INCORPORATED",
-      "session": "tbd",
+      "session": "pre-market",
       "estimateEPS": "5.13",
       "source": "Alpha Vantage"
     },
@@ -120,7 +131,7 @@
       "symbol": "XOM",
       "company": "EXXONMOBIL HOLDINGS CORPORATION",
       "session": "tbd",
-      "estimateEPS": "3.93",
+      "estimateEPS": "3.92",
       "source": "Alpha Vantage"
     },
     {
@@ -131,7 +142,7 @@
       "symbol": "AAPL",
       "company": "APPLE INCORPORATED",
       "session": "post-market",
-      "estimateEPS": "1.98",
+      "estimateEPS": "1.99",
       "source": "Alpha Vantage"
     },
     {
@@ -146,17 +157,6 @@
       "source": "Alpha Vantage"
     },
     {
-      "date": "2026-11-04",
-      "category": "earnings",
-      "importance": "high",
-      "title": "META Earnings",
-      "symbol": "META",
-      "company": "META PLATFORMS INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "6.39",
-      "source": "Alpha Vantage"
-    },
-    {
       "date": "2026-11-18",
       "category": "earnings",
       "importance": "high",
@@ -164,7 +164,7 @@
       "symbol": "NVDA",
       "company": "NVIDIA CORPORATION",
       "session": "tbd",
-      "estimateEPS": "2.47",
+      "estimateEPS": "2.48",
       "source": "Alpha Vantage"
     },
     {
@@ -226,6 +226,28 @@
       "company": "ORACLE CORP",
       "session": "tbd",
       "estimateEPS": "1.57",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-10",
+      "category": "earnings",
+      "importance": "high",
+      "title": "AVGO Earnings",
+      "symbol": "AVGO",
+      "company": "BROADCOM INC",
+      "session": "tbd",
+      "estimateEPS": "3.45",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-10",
+      "category": "earnings",
+      "importance": "high",
+      "title": "COST Earnings",
+      "symbol": "COST",
+      "company": "COSTCO WHOLESALE CORP",
+      "session": "tbd",
+      "estimateEPS": "4.87",
       "source": "Alpha Vantage"
     },
     {
