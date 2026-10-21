@@ -1,58 +1,14 @@
 {
-  "generatedAt": "2026-10-20T18:03:18",
-  "today": "2026-10-20",
-  "eventCount": 26,
+  "generatedAt": "2026-10-21T18:09:27",
+  "today": "2026-10-21",
+  "eventCount": 7,
   "events": [
-    {
-      "date": "2026-10-20",
-      "category": "earnings",
-      "importance": "high",
-      "title": "NFLX Earnings",
-      "symbol": "NFLX",
-      "company": "NETFLIX INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "0.82",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "earnings",
-      "importance": "high",
-      "title": "META Earnings",
-      "symbol": "META",
-      "company": "META PLATFORMS INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "6.67",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "earnings",
-      "importance": "high",
-      "title": "TSLA Earnings",
-      "symbol": "TSLA",
-      "company": "TESLA INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "0.21",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-10-27",
       "category": "fed",
       "importance": "high",
       "title": "FOMC Meeting — Day 1",
       "source": "Federal Reserve"
-    },
-    {
-      "date": "2026-10-27",
-      "category": "earnings",
-      "importance": "high",
-      "title": "V Earnings",
-      "symbol": "V",
-      "company": "VISA INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "3.43",
-      "source": "Alpha Vantage"
     },
     {
       "date": "2026-10-28",
@@ -67,127 +23,6 @@
       "importance": "critical",
       "title": "Fed Chair Press Conference",
       "source": "Federal Reserve"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "earnings",
-      "importance": "high",
-      "title": "GOOGL Earnings",
-      "symbol": "GOOGL",
-      "company": "ALPHABET INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "2.94",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "earnings",
-      "importance": "high",
-      "title": "MSFT Earnings",
-      "symbol": "MSFT",
-      "company": "MICROSOFT CORPORATION",
-      "session": "post-market",
-      "estimateEPS": "4.71",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AMZN Earnings",
-      "symbol": "AMZN",
-      "company": "AMAZON.COM INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "2.02",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "LLY Earnings",
-      "symbol": "LLY",
-      "company": "ELI LILLY AND COMPANY",
-      "session": "pre-market",
-      "estimateEPS": "5.38",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "MA Earnings",
-      "symbol": "MA",
-      "company": "MASTERCARD INCORPORATED",
-      "session": "pre-market",
-      "estimateEPS": "5.13",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-30",
-      "category": "earnings",
-      "importance": "high",
-      "title": "XOM Earnings",
-      "symbol": "XOM",
-      "company": "EXXONMOBIL HOLDINGS CORPORATION",
-      "session": "tbd",
-      "estimateEPS": "3.92",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-11-02",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AAPL Earnings",
-      "symbol": "AAPL",
-      "company": "APPLE INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "1.99",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-11-03",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AMD Earnings",
-      "symbol": "AMD",
-      "company": "ADVANCED MICRO DEVICES INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "1.66",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-11-18",
-      "category": "earnings",
-      "importance": "high",
-      "title": "NVDA Earnings",
-      "symbol": "NVDA",
-      "company": "NVIDIA CORPORATION",
-      "session": "tbd",
-      "estimateEPS": "2.48",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-11-19",
-      "category": "earnings",
-      "importance": "high",
-      "title": "WMT Earnings",
-      "symbol": "WMT",
-      "company": "WALMART INCORPORATED",
-      "session": "pre-market",
-      "estimateEPS": "0.63",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-12-02",
-      "category": "earnings",
-      "importance": "high",
-      "title": "CRM Earnings",
-      "symbol": "CRM",
-      "company": "SALESFORCE INC",
-      "session": "tbd",
-      "estimateEPS": "2.41",
-      "source": "Alpha Vantage"
     },
     {
       "date": "2026-12-08",
@@ -216,50 +51,6 @@
       "importance": "critical",
       "title": "Summary of Economic Projections (SEP)",
       "source": "Federal Reserve"
-    },
-    {
-      "date": "2026-12-09",
-      "category": "earnings",
-      "importance": "high",
-      "title": "ORCL Earnings",
-      "symbol": "ORCL",
-      "company": "ORACLE CORP",
-      "session": "tbd",
-      "estimateEPS": "1.57",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-12-10",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AVGO Earnings",
-      "symbol": "AVGO",
-      "company": "BROADCOM INC",
-      "session": "tbd",
-      "estimateEPS": "3.45",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-12-10",
-      "category": "earnings",
-      "importance": "high",
-      "title": "COST Earnings",
-      "symbol": "COST",
-      "company": "COSTCO WHOLESALE CORP",
-      "session": "tbd",
-      "estimateEPS": "4.87",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2027-01-14",
-      "category": "earnings",
-      "importance": "high",
-      "title": "JPM Earnings",
-      "symbol": "JPM",
-      "company": "JPMORGAN CHASE & COMPANY",
-      "session": "tbd",
-      "estimateEPS": "",
-      "source": "Alpha Vantage"
     }
   ]
 }
