@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T18:05:46",
-  "today": "2026-10-22",
+  "generatedAt": "2026-10-23T17:55:01",
+  "today": "2026-10-23",
   "eventCount": 23,
   "events": [
     {
@@ -65,7 +65,7 @@
       "symbol": "AMZN",
       "company": "AMAZON.COM INCORPORATED",
       "session": "post-market",
-      "estimateEPS": "2.02",
+      "estimateEPS": "2.01",
       "source": "Alpha Vantage"
     },
     {
@@ -98,7 +98,7 @@
       "symbol": "XOM",
       "company": "EXXONMOBIL HOLDINGS CORPORATION",
       "session": "pre-market",
-      "estimateEPS": "3.93",
+      "estimateEPS": "3.96",
       "source": "Alpha Vantage"
     },
     {
