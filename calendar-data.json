@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T19:28:27",
-  "today": "2026-10-26",
+  "generatedAt": "2026-10-27T18:49:24",
+  "today": "2026-10-27",
   "eventCount": 23,
   "events": [
     {
@@ -98,7 +98,7 @@
       "symbol": "XOM",
       "company": "EXXONMOBIL HOLDINGS CORPORATION",
       "session": "pre-market",
-      "estimateEPS": "3.96",
+      "estimateEPS": "3.9",
       "source": "Alpha Vantage"
     },
     {
