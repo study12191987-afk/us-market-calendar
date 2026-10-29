@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-10-28T18:58:15",
-  "today": "2026-10-28",
-  "eventCount": 21,
+  "generatedAt": "2026-10-29T19:04:54",
+  "today": "2026-10-29",
+  "eventCount": 17,
   "events": [
-    {
-      "date": "2026-10-28",
-      "category": "fed",
-      "importance": "critical",
-      "title": "FOMC Rate Decision",
-      "source": "Federal Reserve"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "fed",
-      "importance": "critical",
-      "title": "Fed Chair Press Conference",
-      "source": "Federal Reserve"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "earnings",
-      "importance": "high",
-      "title": "GOOGL Earnings",
-      "symbol": "GOOGL",
-      "company": "ALPHABET INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "2.94",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-28",
-      "category": "earnings",
-      "importance": "high",
-      "title": "MSFT Earnings",
-      "symbol": "MSFT",
-      "company": "MICROSOFT CORPORATION",
-      "session": "post-market",
-      "estimateEPS": "4.71",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-10-29",
       "category": "earnings",
