@@ -1,41 +1,8 @@
 {
-  "generatedAt": "2026-10-29T19:04:54",
-  "today": "2026-10-29",
-  "eventCount": 17,
+  "generatedAt": "2026-10-30T18:42:25",
+  "today": "2026-10-30",
+  "eventCount": 14,
   "events": [
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AMZN Earnings",
-      "symbol": "AMZN",
-      "company": "AMAZON.COM INCORPORATED",
-      "session": "post-market",
-      "estimateEPS": "2.01",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "LLY Earnings",
-      "symbol": "LLY",
-      "company": "ELI LILLY AND COMPANY",
-      "session": "pre-market",
-      "estimateEPS": "5.38",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "importance": "high",
-      "title": "MA Earnings",
-      "symbol": "MA",
-      "company": "MASTERCARD INCORPORATED",
-      "session": "pre-market",
-      "estimateEPS": "5.14",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-10-30",
       "category": "earnings",
