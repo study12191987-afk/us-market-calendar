@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-10-30T18:42:25",
-  "today": "2026-10-30",
-  "eventCount": 14,
+  "generatedAt": "2026-10-31T17:50:48",
+  "today": "2026-10-31",
+  "eventCount": 13,
   "events": [
-    {
-      "date": "2026-10-30",
-      "category": "earnings",
-      "importance": "high",
-      "title": "XOM Earnings",
-      "symbol": "XOM",
-      "company": "EXXONMOBIL HOLDINGS CORPORATION",
-      "session": "pre-market",
-      "estimateEPS": "3.9",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-11-02",
       "category": "earnings",
@@ -37,13 +26,13 @@
       "source": "Alpha Vantage"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-17",
       "category": "earnings",
       "importance": "high",
       "title": "NVDA Earnings",
       "symbol": "NVDA",
       "company": "NVIDIA CORPORATION",
-      "session": "tbd",
+      "session": "post-market",
       "estimateEPS": "2.49",
       "source": "Alpha Vantage"
     },
@@ -103,7 +92,7 @@
       "importance": "high",
       "title": "ORCL Earnings",
       "symbol": "ORCL",
-      "company": "ORACLE CORP",
+      "company": "ORACLE CORPORATION",
       "session": "tbd",
       "estimateEPS": "1.57",
       "source": "Alpha Vantage"
