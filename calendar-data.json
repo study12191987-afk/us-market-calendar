@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T17:50:48",
-  "today": "2026-10-31",
+  "generatedAt": "2026-11-01T18:28:27",
+  "today": "2026-11-01",
   "eventCount": 13,
   "events": [
     {
@@ -103,7 +103,7 @@
       "importance": "high",
       "title": "AVGO Earnings",
       "symbol": "AVGO",
-      "company": "BROADCOM INC",
+      "company": "BROADCOM INCORPORATED",
       "session": "tbd",
       "estimateEPS": "3.45",
       "source": "Alpha Vantage"
@@ -114,7 +114,7 @@
       "importance": "high",
       "title": "COST Earnings",
       "symbol": "COST",
-      "company": "COSTCO WHOLESALE CORP",
+      "company": "COSTCO WHOLESALE CORPORATION",
       "session": "tbd",
       "estimateEPS": "4.87",
       "source": "Alpha Vantage"
