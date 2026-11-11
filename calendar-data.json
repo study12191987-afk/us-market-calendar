@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T20:31:23",
-  "today": "2026-11-10",
+  "generatedAt": "2026-11-11T20:17:21",
+  "today": "2026-11-11",
   "eventCount": 11,
   "events": [
     {
@@ -68,22 +68,22 @@
       "date": "2026-12-09",
       "category": "earnings",
       "importance": "high",
+      "title": "AVGO Earnings",
+      "symbol": "AVGO",
+      "company": "BROADCOM INCORPORATED",
+      "session": "post-market",
+      "estimateEPS": "3.45",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
+      "importance": "high",
       "title": "ORCL Earnings",
       "symbol": "ORCL",
       "company": "ORACLE CORPORATION",
       "session": "tbd",
       "estimateEPS": "1.56",
-      "source": "Alpha Vantage"
-    },
-    {
-      "date": "2026-12-10",
-      "category": "earnings",
-      "importance": "high",
-      "title": "AVGO Earnings",
-      "symbol": "AVGO",
-      "company": "BROADCOM INCORPORATED",
-      "session": "tbd",
-      "estimateEPS": "3.45",
       "source": "Alpha Vantage"
     },
     {
