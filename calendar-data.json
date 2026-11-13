@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T20:58:59",
-  "today": "2026-11-12",
+  "generatedAt": "2026-11-13T20:34:34",
+  "today": "2026-11-13",
   "eventCount": 11,
   "events": [
     {
@@ -32,7 +32,7 @@
       "title": "CRM Earnings",
       "symbol": "CRM",
       "company": "SALESFORCE INCORPORATED",
-      "session": "tbd",
+      "session": "post-market",
       "estimateEPS": "2.41",
       "source": "Alpha Vantage"
     },
