@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T22:57:31",
-  "today": "2026-11-16",
+  "generatedAt": "2026-11-17T21:50:40",
+  "today": "2026-11-17",
   "eventCount": 11,
   "events": [
     {
@@ -93,7 +93,7 @@
       "title": "COST Earnings",
       "symbol": "COST",
       "company": "COSTCO WHOLESALE CORPORATION",
-      "session": "tbd",
+      "session": "post-market",
       "estimateEPS": "4.87",
       "source": "Alpha Vantage"
     },
