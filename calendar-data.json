@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T21:29:39",
-  "today": "2026-11-18",
+  "generatedAt": "2026-11-19T21:42:31",
+  "today": "2026-11-19",
   "eventCount": 10,
   "events": [
     {
@@ -61,7 +61,7 @@
       "symbol": "AVGO",
       "company": "BROADCOM INCORPORATED",
       "session": "post-market",
-      "estimateEPS": "3.47",
+      "estimateEPS": "3.45",
       "source": "Alpha Vantage"
     },
     {
@@ -83,18 +83,18 @@
       "symbol": "COST",
       "company": "COSTCO WHOLESALE CORPORATION",
       "session": "post-market",
-      "estimateEPS": "4.87",
+      "estimateEPS": "4.89",
       "source": "Alpha Vantage"
     },
     {
-      "date": "2027-01-14",
+      "date": "2027-01-12",
       "category": "earnings",
       "importance": "high",
       "title": "JPM Earnings",
       "symbol": "JPM",
       "company": "JPMORGAN CHASE & COMPANY",
       "session": "tbd",
-      "estimateEPS": "",
+      "estimateEPS": "5.94",
       "source": "Alpha Vantage"
     }
   ]
