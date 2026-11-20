@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-11-19T21:42:31",
-  "today": "2026-11-19",
+  "generatedAt": "2026-11-20T21:23:45",
+  "today": "2026-11-20",
   "eventCount": 10,
   "events": [
-    {
-      "date": "2026-11-19",
-      "category": "earnings",
-      "importance": "high",
-      "title": "WMT Earnings",
-      "symbol": "WMT",
-      "company": "WALMART INCORPORATED",
-      "session": "pre-market",
-      "estimateEPS": "0.64",
-      "source": "Alpha Vantage"
-    },
     {
       "date": "2026-12-02",
       "category": "earnings",
@@ -95,6 +84,17 @@
       "company": "JPMORGAN CHASE & COMPANY",
       "session": "tbd",
       "estimateEPS": "5.94",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2027-01-13",
+      "category": "earnings",
+      "importance": "high",
+      "title": "BAC Earnings",
+      "symbol": "BAC",
+      "company": "BANK OF AMERICA CORP",
+      "session": "tbd",
+      "estimateEPS": "1.13",
       "source": "Alpha Vantage"
     }
   ]
