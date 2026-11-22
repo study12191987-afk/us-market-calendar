@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T20:11:11",
-  "today": "2026-11-21",
-  "eventCount": 9,
+  "generatedAt": "2026-11-22T20:25:24",
+  "today": "2026-11-22",
+  "eventCount": 10,
   "events": [
     {
       "date": "2026-12-02",
@@ -62,6 +62,17 @@
       "company": "COSTCO WHOLESALE CORPORATION",
       "session": "post-market",
       "estimateEPS": "4.89",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2026-12-14",
+      "category": "earnings",
+      "importance": "high",
+      "title": "ORCL Earnings",
+      "symbol": "ORCL",
+      "company": "ORACLE CORPORATION",
+      "session": "post-market",
+      "estimateEPS": "1.56",
       "source": "Alpha Vantage"
     },
     {
