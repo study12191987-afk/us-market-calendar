@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:05:44",
+  "generatedAt": "2026-11-24T23:10:22",
   "today": "2026-11-24",
   "eventCount": 10,
   "events": [
@@ -87,13 +87,13 @@
       "source": "Alpha Vantage"
     },
     {
-      "date": "2027-01-13",
+      "date": "2027-01-15",
       "category": "earnings",
       "importance": "high",
       "title": "BAC Earnings",
       "symbol": "BAC",
       "company": "BANK OF AMERICA CORP",
-      "session": "tbd",
+      "session": "pre-market",
       "estimateEPS": "1.13",
       "source": "Alpha Vantage"
     }
