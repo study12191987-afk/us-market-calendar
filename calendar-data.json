@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T22:38:45",
-  "today": "2026-11-25",
-  "eventCount": 10,
+  "generatedAt": "2026-11-26T22:28:54",
+  "today": "2026-11-26",
+  "eventCount": 11,
   "events": [
     {
       "date": "2026-12-02",
@@ -95,6 +95,17 @@
       "company": "BANK OF AMERICA CORP",
       "session": "pre-market",
       "estimateEPS": "1.13",
+      "source": "Alpha Vantage"
+    },
+    {
+      "date": "2027-01-19",
+      "category": "earnings",
+      "importance": "high",
+      "title": "NFLX Earnings",
+      "symbol": "NFLX",
+      "company": "NETFLIX INC",
+      "session": "tbd",
+      "estimateEPS": "0.67",
       "source": "Alpha Vantage"
     }
   ]
